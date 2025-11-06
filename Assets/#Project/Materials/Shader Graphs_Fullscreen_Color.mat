@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Shader Graphs_Fullscreen_Color
-  m_Shader: {fileID: -6465566751694194690, guid: dab9c5047d7185741935539be0f77b59, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 9c7d93adfa27ecc44b9c3781903d288e, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -39,6 +39,6 @@ Material:
     m_Floats:
     - _Twirl: 0
     m_Colors:
-    - _Color: {r: 1, g: 0.5773492, b: 0, a: 1}
+    - _Color: {r: 0.7924528, g: 0.56568456, b: 0.14038217, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
