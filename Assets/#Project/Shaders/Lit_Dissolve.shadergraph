@@ -2170,8 +2170,8 @@
     "m_ObjectId": "5982be3566a4424c9c95967106367111",
     "m_Title": "Gradient on the object via UV",
     "m_Position": {
-        "x": -2194.66650390625,
-        "y": 889.3333740234375
+        "x": -2194.0,
+        "y": 890.0
     }
 }
 
@@ -2181,8 +2181,8 @@
     "m_ObjectId": "5b6a5b8c6de74b6eb86998dad0ee8c0d",
     "m_Title": "Correcting dissolution values",
     "m_Position": {
-        "x": -1857.333251953125,
-        "y": -43.33331298828125
+        "x": -1857.0,
+        "y": -43.0
     }
 }
 
@@ -2590,8 +2590,8 @@
     "m_ObjectId": "76f3b86fac1c42b1a7eecf0910ab3fb2",
     "m_Title": "Scrolling UV",
     "m_Position": {
-        "x": -2703.3330078125,
-        "y": 169.33328247070313
+        "x": -2703.0,
+        "y": 170.0
     }
 }
 
@@ -4360,8 +4360,8 @@
     "m_ObjectId": "cc59c660df91495585f7d49cfe62d1f5",
     "m_Title": "Gradient Wold Space",
     "m_Position": {
-        "x": -2556.66650390625,
-        "y": 1401.3336181640625
+        "x": -2556.0,
+        "y": 1402.0
     }
 }
 
